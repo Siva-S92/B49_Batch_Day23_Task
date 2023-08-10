@@ -1,0 +1,11 @@
+body{
+    background: #ecebe6;
+    padding-top: 40px;
+}
+
+.my-container{
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    z-index: 9999;
+}

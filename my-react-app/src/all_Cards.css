@@ -1,0 +1,13 @@
+.warn{
+    position: fixed;
+    height: auto;
+    width: 250px;
+    right: 0;
+    top: 10%;
+    background-color: rgb(210, 91, 91);
+    font-size: 1.1rem;
+    color: white;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+}
